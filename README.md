@@ -24,7 +24,7 @@
       c1-->d4((...));
  ```
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparksam" alt="sparksam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparksam&column=7&theme=discord" alt="sparksam" /></a> </p>
 
 <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparksam&" alt="sparksam" /></p>
 
