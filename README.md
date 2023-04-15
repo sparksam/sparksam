@@ -1,8 +1,4 @@
-<!---
-![My GitHub](https://github-readme-stats.vercel.app/api/?username=sparksam&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)
 
-[//]: # "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparksam&count_private=true&theme=vision-friendly-dark&layout=compact)"
--->
 ```mermaid
   graph LR;
       a1((S))-->b1((P));
@@ -27,3 +23,11 @@
       b4-->c2;
       c1-->d4((...));
  ```
+ 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparksam" alt="sparksam" /></a> </p>
+
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparksam&" alt="sparksam" /></p>
+
+<!-- ![My GitHub](https://github-readme-stats.vercel.app/api/?username=sparksam&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparksam&count_private=true&theme=vision-friendly-dark&layout=compact)" -->
